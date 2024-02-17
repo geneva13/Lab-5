@@ -1,5 +1,7 @@
+
+
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: "Inter", sans-serif;
     color: #EAE8FF;
     background: #2D3142;
     padding: 0 40px;
@@ -48,3 +50,4 @@ h1 strong {
 img.about {
     opacity: 0.5;
 }
+
